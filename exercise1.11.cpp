@@ -20,6 +20,7 @@ int main()
         val = v1;
         maxval = v2;
     }
+    ()
     else {
         val = v2;
         maxval = v1;
